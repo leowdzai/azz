@@ -170,7 +170,7 @@ cat >>config.yml<<EOF
   - PanelType: "V2board" # Panel type:  NewV2board, V2board
     ApiConfig:
       ApiHost: "https://my.punpn.net"
-      ApiKey: "hhai_hhai_hhai_hhai"
+      ApiKey: "bgfhtrhtrejytrjyuthtrwgrewvfedswhtrehjtrwegrtewgrew"
       NodeID: $node_id
       NodeType: $NodeType # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
